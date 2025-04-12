@@ -53,6 +53,7 @@ python app.py
 - View the predicted disease and all related health recommendations.
 
 ## 👨‍💻 Author
-- Ansari Mohammad Zaid
-- GitHub: @mdzaid382
+
+- **Ansari Mohammad Zaid**  
+  [@mdzaid382](https://github.com/mdzaid382)
 
