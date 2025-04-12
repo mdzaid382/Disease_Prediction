@@ -27,16 +27,11 @@ A machine learning-based disease prediction system where users can input their s
 
 ---
 
+
 ## 🛠️ Installation
 
-- **Clone the repository:**
+Clone the repository:
 
-- git clone https://github.com/yourusername/disease-prediction.git
-
-- **Install required dependencies:**
-
-- pip install -r requirements.txt
-
-- **Run the application:**
-
-- python app.py
+```bash
+git clone https://github.com/yourusername/disease-prediction.git
+cd disease-prediction
