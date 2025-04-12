@@ -37,3 +37,22 @@ git clone https://github.com/yourusername/disease-prediction.git
 ```
 
 Install required dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+Run the application:
+```bash
+python app.py
+```
+
+## 💡 Usage
+
+- Start the application.
+- Enter your symptoms (e.g., fever, headache, cough).
+- View the predicted disease and all related health recommendations.
+
+## 👨‍💻 Author
+- Ansari Mohammad Zaid
+- GitHub: @mdzaid382
+
