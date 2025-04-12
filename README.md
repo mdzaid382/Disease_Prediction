@@ -31,12 +31,12 @@ A machine learning-based disease prediction system where users can input their s
 
 - **Clone the repository:**
 
--git clone https://github.com/yourusername/disease-prediction.git
+- git clone https://github.com/yourusername/disease-prediction.git
 
--**Install required dependencies:**
+- **Install required dependencies:**
 
--pip install -r requirements.txt
+- pip install -r requirements.txt
 
--**Run the application:**
+- **Run the application:**
 
--python app.py
+- python app.py
