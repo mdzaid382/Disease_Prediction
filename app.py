@@ -3,19 +3,19 @@ import numpy as np
 import pickle
 
 
-model = pickle.load(open('svc_p.pkl',('rb')))
-df = pickle.load(open('df.pkl',('rb')))
-description = pickle.load(open('description.pkl',('rb')))
-diet = pickle.load(open('diet.pkl',('rb')))
-medications = pickle.load(open('medications.pkl',('rb')))
-precautions = pickle.load(open('precautions.pkl',('rb')))
-workouts = pickle.load(open('workouts.pkl',('rb')))
-symptoms = pickle.load(open('symptoms.pkl',('rb')))
-disease_name = pickle.load(open('disease_name.pkl',('rb')))
+model = pickle.load(open('Model\\svc_p.pkl',('rb')))
+df = pickle.load(open('Model\\df.pkl',('rb')))
+description = pickle.load(open('Model\\description.pkl',('rb')))
+diet = pickle.load(open('Model\\diet.pkl',('rb')))
+medications = pickle.load(open('Model\\medications.pkl',('rb')))
+precautions = pickle.load(open('Model\\precautions.pkl',('rb')))
+workouts = pickle.load(open('Model\\workouts.pkl',('rb')))
+symptoms = pickle.load(open('Model\\symptoms.pkl',('rb')))
+disease_name = pickle.load(open('Model\\disease_name.pkl',('rb')))
 
 
 
-st.image("logo.webp", width=60)
+st.image("Logo\\logo.webp", width=60)
 
 
 st.markdown("## Disease Pridiction Model") 
