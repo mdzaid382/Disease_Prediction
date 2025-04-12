@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 
 
-model = pickle.load(open('Model\\svc_p.pkl',('rb')))
+model = pickle.load(open('svc_p.pkl',('rb')))
 df = pickle.load(open('Model\\df.pkl',('rb')))
 description = pickle.load(open('Model\\description.pkl',('rb')))
 diet = pickle.load(open('Model\\diet.pkl',('rb')))
