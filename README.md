@@ -34,4 +34,6 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/disease-prediction.git
-cd disease-prediction
+```
+
+Install required dependencies:
