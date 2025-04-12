@@ -1,6 +1,7 @@
 # 🧠 Disease Prediction System
 
 https://diseaseprediction382.streamlit.app
+
 A machine learning-based disease prediction system where users can input their symptoms and receive:
 
 - 🩺 **Predicted Disease**
